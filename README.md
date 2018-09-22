@@ -235,4 +235,4 @@ $ eadb wait-for-fastboot
 ```
 
 
-[![Merferry](https://i.imgur.com/7dOgljF.jpg)](https://merferry.github.io)
+[![bashf](https://i.imgur.com/7dOgljF.jpg)](https://bashf.github.io)
