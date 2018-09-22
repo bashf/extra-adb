@@ -1,6 +1,6 @@
 Run shortcut adb commands in Linux Terminal.
-> 1. Download [bash script](https://github.com/bashf/extra-bel/releases/download/1.0.0/ebel).
-> 2. Set execute permission on the `bash script`, and copy to `~/scripts`.
+> 1. Download [zip file](https://github.com/bashf/extra-adb/releases/download/1.0.0/eadb.zip).
+> 2. Extract, set execute permission on the `bash script`, and copy to `~/scripts`.
 > 3. Add `~/scripts` to `PATH` environment variable.
 
 
